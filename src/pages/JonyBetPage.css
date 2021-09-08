@@ -1,0 +1,22 @@
+.allTeams {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.team{
+  border: 1px solid black;
+}
+
+p{
+  margin: 10px;
+  
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  margin: 0 auto;
+}
